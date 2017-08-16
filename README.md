@@ -1,5 +1,5 @@
 # shiftSMI
-Simple BASh script shifting .smi formatted subtitle to given delay.
+Simple BASH script shifting .smi formatted subtitle to given delay.
 It accepts any unicode subtitles.
 
 
