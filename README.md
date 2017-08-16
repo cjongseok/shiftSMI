@@ -1,9 +1,13 @@
 # shiftSMI
-Shift .smi formatted subtitle to given delay.
+Simple BASh script shifting .smi formatted subtitle to given delay.
+It accepts any unicode subtitles.
+
+
 ### Usage
 ``sh
 $ ./shiftSmi.sh <SMI_PATH> <DELAY_IN_MS>
 ``
+
 
 ### Examples
 Shift an smi, hello.smi, to 5 seconds forward:
@@ -18,3 +22,6 @@ Shift an smi, hello.smi, to 0.5 seconds backward:
 $ ./shiftSmi.sh hello.smi -500
 ``
 
+
+### Tested Environments
+- *Korean* on *macOS Sierra (10.12.5)*
