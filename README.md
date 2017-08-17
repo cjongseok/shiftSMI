@@ -9,7 +9,7 @@ Tested Environments
 - *Korean* on *macOS Sierra (10.12.5)*
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-104778232-1/dag.js/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-104778232-1/shiftSMI/README.md?pixel)](https://github.com/igrigorik/ga-beacon)
 
 
 Install
